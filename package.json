@@ -1,6 +1,6 @@
 {
-  "name": "opencv-updated-gyp",
-  "version": "0.0.6",
+  "name": "opencv-updated-gypc",
+  "version": "0.0.7",
   "description": "Node Bindings to OpenCV",
   "author": "Peter Braden <peterbraden@peterbraden.co.uk>",
   "dependencies": {
