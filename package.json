@@ -1,19 +1,19 @@
 {
-  "name": "opencv",
-  "version": "6.0.0",
+  "name": "opencv-updated-gyp",
+  "version": "0.0.6",
   "description": "Node Bindings to OpenCV",
   "author": "Peter Braden <peterbraden@peterbraden.co.uk>",
   "dependencies": {
     "buffers": "^0.1.1",
     "istanbul": "0.4.5",
     "nan": "^2.0.9",
-    "node-pre-gyp": "^0.6.30"
+    "node-pre-gyp": "^0.6.33"
   },
   "devDependencies": {
-    "tape": "^3.0.0",
-    "aws-sdk": "~2.1.20",
+    "aws-sdk": "^2.175.0",
     "glob": "^5.0.3",
-    "request": "^2.44.0"
+    "request": "^2.44.0",
+    "tape": "^3.0.0"
   },
   "bundledDependencies": [
     "node-pre-gyp"
